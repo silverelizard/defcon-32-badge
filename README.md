@@ -1,0 +1,1 @@
+All credit to the badass creators of the badge! You best check them out. The official badge readme has been included to this end.
