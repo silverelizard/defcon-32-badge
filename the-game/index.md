@@ -117,7 +117,7 @@ The main event! When you enter the con, you are told a story in verse:
 ## Fast Path to Finish Badge
 So you just want to finish the badge and beat the game, huh? Alright, here you go!
 
-1. Grab a WATER from the nearest vending machine on Floor 1a (hallway outside of the Cloud Village to the left)
+1. Grab a WATER from the nearest vending machine on Floor 1a (hallway outside of the front entry of the Cloud Village to the left)
 2. Go add Lock Cat to your party in the Lockpick Village on Floor 1a
 3. Trade WATER for BEDAZZLED SHOE on Floor 1a near HDA
 4. Trade BEDAZZLED SHOE for PHONE on Floor 3 in Social Eng
